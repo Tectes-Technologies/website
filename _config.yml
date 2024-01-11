@@ -17,6 +17,9 @@ collections:
   applications:
     output: true
     sort_by: weight
+  privacies:
+    output: true
+    sort_by: weight
 
 defaults:
   - scope:
@@ -24,6 +27,11 @@ defaults:
       type: "applications"
     values:
       layout: "application"
+  - scope:
+      path: ""
+      type: "privacies"
+    values:
+      layout: "privacy"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
