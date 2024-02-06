@@ -60,6 +60,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 **Email:** [sebastienfct@gmail.com](mailto:sebastienfct@gmail.com)
 
-**Address:** 85 Rue Maurice, Saint-Constant J5A 1S4 Quebec (Canada)
-
 Last Updated: 2024-01-10

@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "E5P894ED53.com.sebfct.wisebudget",
+        "components": [
+          {
+            "/": "/confirm-email/*",
+            "comment": "Matches URL with a path that starts with /confirm-email/."
+          }
+        ]
+      }
+    ]
+  }
+}
