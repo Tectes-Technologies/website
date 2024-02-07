@@ -50,5 +50,3 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
-
-include: [".well-known"]
